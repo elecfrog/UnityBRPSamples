@@ -1,0 +1,26 @@
+﻿# Unity Project Git Igonore File Template
+# dudu @ 2023/06/06
+
+# jetbrains
+/.idea/
+
+# visual studio
+/.vs/
+*.sln
+*.csproj
+*.vsconfig
+*.sln.DotSettings.user
+
+# build
+/build/
+/obj
+
+# libs
+/Library/
+
+# Logs
+/Logs/
+
+# Temp
+/Temp/
+
